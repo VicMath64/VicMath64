@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VicMath64
 - 👀 I’m interested in web development and game development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML/CSS and Javascript.
 - 📫 Contact: victormatheusmelo@outlook.com
 
 <!---
